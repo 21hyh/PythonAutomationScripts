@@ -10,3 +10,5 @@
 （3）利用VBA进行操作 <br /> <br />
 
 但在这里，由于难以打开目标Excel文件或者打开过程、操作过程极其卡顿，我们采用Python处理的方法 <br />
+
+![image](https://github.com/user-attachments/assets/73812f27-1742-4d47-9cc9-0db22810dcd6)
