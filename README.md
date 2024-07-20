@@ -1,1 +1,3 @@
 # PythonAutomationScripts
+
+该项目是一个项目集，其子项目为在现实工作学习中各种需求下，为实现自动化处理而开发的一些Python脚本小程序。
