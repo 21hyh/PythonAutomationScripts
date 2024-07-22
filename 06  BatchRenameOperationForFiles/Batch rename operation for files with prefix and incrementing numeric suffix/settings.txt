@@ -1,0 +1,5 @@
+source_directory=D:/30866/Desktop/data£¨5+6+8+9+10+13£©/val/labels--val
+target_directory=D:/30866/Desktop/data£¨5+6+8+9+10+13£©/val/labels
+prefix=images
+start_number=1
+extension=txt

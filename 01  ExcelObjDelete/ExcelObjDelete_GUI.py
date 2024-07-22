@@ -98,10 +98,10 @@ def start_thread(file_path, status_label, root):
 def create_gui():
     root = Tk()
     root.title("Excel文件处理器")
-    root.geometry("400x200")
+    root.geometry("500x150")
 
     status_label = StringVar()
-    status_label.set("请选择一个文件进行处理！处理时间因复杂程度而异！请耐心等待，不要重复点击！")
+    status_label.set("请选择一个文件进行处理！\n 处理时间因复杂程度而异！请耐心等待，不要重复点击！")
 
     def open_file():
         file_path = filedialog.askopenfilename(title="选择Excel文件", filetypes=[("Excel files", "*.xlsx *.xls")])
